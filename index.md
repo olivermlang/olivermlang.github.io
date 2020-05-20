@@ -5,7 +5,7 @@ description: Oliver M. Lang is a PhD candidate at the University of Wisconsin-Ma
 keywords: 
 ---
 
-Welcome! My name is Oliver Lang and I am a PhD candidate at the University of Wisconsin-Madison. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Welcome! My name is Oliver Lang and I am a PhD candidate at the University of Wisconsin-Madison. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
